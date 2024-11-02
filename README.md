@@ -1,17 +1,17 @@
-# ¡Hola! 👋
+# Hello! 👋
 
-Mi nombre es **Jerry Anderson Huaynacho Mango**, soy desarrollador y actualmente estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Agustín**. Tengo un grado de bachiller en **Ingeniería Civil**, con especialización en ingeniería estructural, ya que se alinea más con mis intereses.
+My name is **Jerry Anderson Huaynacho Mango**. I am a developer and currently a **Systems Engineering** student at the **National University of San Agustín**. I hold a bachelor's degree in **Civil Engineering**, with a specialization in structural engineering, which aligns closely with my interests.
 
-Ahora que estoy estudiando Ingeniería de Sistemas, mi objetivo es contribuir con mis trabajos de desarrollo en el campo de la ingeniería civil.
-## Mi experiencia laboral
+Now that I'm studying Systems Engineering, my goal is to contribute with my development work in the field of civil engineering.
 
-Desde 2020, he participado en el diseño de estructuras sismorresistentes en acero y concreto armado. Además, tambien soy parte en la redacción de un artículo que pronto será publicado, el cual aborda el monitoreo de salud estructural utilizando inteligencia artificial. A lo largo de mi trayectoria, he adquirido experiencia en Modelamiento y Diseño de estructuras. Tambien gracias a mi segunda carrera tengo conocimientos en programación orientada a objetos y manejo de lenguajes como **Java**, **C++**, **Python** y **JavaScript**. Ademas he trabajado en el diseño de redes neuronales artificiales utilizando TensorFlow, y me gustaria contribuir al desarrollo de la comunidad open source.
+## Work Experience
 
-## Contáctame
+Since 2020, I have been involved in the design of earthquake-resistant structures made of steel and reinforced concrete. I am also co-authoring an article soon to be published, which addresses structural health monitoring using artificial intelligence. Throughout my career, I have gained experience in modeling and designing structures. Thanks to my second degree, I have also acquired knowledge in object-oriented programming and proficiency in languages such as **Java**, **C++**, **Python**, and **JavaScript**. Additionally, I have worked on designing artificial neural networks using TensorFlow, and I am eager to contribute to the open-source community.
+
+## Contact Me
 
 [jerry.07.dot@gmail.com](mailto:jerry.07.dot@gmail.com).
 
-![Imagen Personalizada](imagen.png)
+![Custom Image](imagen.png)
 
-🚀 Actualmente, estoy enfocado en mejorar mis habilidades en desarrollo, ya que es lo que más me apasiona. Uno de mis objetivos es contribuir con sistemas de inteligencia artificial en el campo de la ingeniería civil.
-
+🚀 Currently, I am focused on improving my development skills, as it is what I am most passionate about. One of my goals is to contribute to artificial intelligence systems within the field of civil engineering.
