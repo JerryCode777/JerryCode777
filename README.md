@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Jerry Anderson Huaynacho Mango**. I am a fullstack developer ...
+Soy Jerry Anderson Huaynacho Mango, estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa. Me apasiona el desarrollo de software y la tecnología. Estoy en constante aprendizaje, explorando nuevas tecnologías y herramientas que me permitan crear soluciones innovadoras y de impacto.
 
 ## Contact Me
 
